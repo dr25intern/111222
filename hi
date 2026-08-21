@@ -1,1 +1,2 @@
-git push -u origin main
+give me the code to run object detection using the best.pt file, it is trained using YOLO v12s, input data must be provided from local not using web-cam,
+while detection it for Fg - Gryffindor, Fi - Rumble Strip, Fo - Stone Ring, Ft - Tile, Fw - Limestone, don't detect pl.
